@@ -24,5 +24,5 @@ As an autonomous and enthusiastic student, my experiences have allowed me to dee
 
 Thanks for visiting my GitHub profile. Let's collaborate and learn together!
 
-![Visitor Count](https://profile-counter.glitch.me/wajdi_2k01/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/FawzElHouda/count.svg)
 
